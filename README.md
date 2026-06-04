@@ -51,13 +51,30 @@ I am a Master's student specializing in Satellite Technology and Robotics at Jul
 
 ### NASA Space Apps Challenge
 * **Tech Stack:** Python, TensorFlow, sklearn, Jupyter Notebooks
-* **Summary:** Hackathon to detect anomalies in Seismometer data with deep learning
+* **Summary:** Local Event Winner at the NASA Space Apps Challenge Hackathon with our AI algorithm that detects anomalies in Seismometer data
 * **Images:**
     <p align="center">
       <img width="600" alt="image" src="https://github.com/user-attachments/assets/56943fec-24bd-421d-9758-6a01c0e86e52" />
       <br />  <em>Figure 4.1: Example of Input Data and predicted Anomalie</em> <br />
     </p>
 * **Links:** [Jupyter Notebook](https://github.com/NickiBroichhausen/NASASpaceAppChallange24/blob/main/Seismic_ML.ipynb)
+
+
+### Fraunhofer Research Camp on Autonomous Flight
+* **Tech Stack:** Python, TensorFlow, OpenCV, ROS
+* **Summary:** 1 week research camp with a group project on autonoumous landing site detection with a JetsonOrin, based on an Image Segmentation AI
+* **Images:**
+    <p align="center">
+      <img width="500" alt="image" src="https://github.com/user-attachments/assets/4639146a-2d50-4b44-8858-9640b897c627" />
+      <br />  <em>Figure 5.1: Code Architecture Overview </em> <br />
+      <img width="500" alt="image" src="https://github.com/user-attachments/assets/f44890df-c203-49a8-ad0f-62f9c8a46216" />
+      <br />  <em>Figure 5.2: Landing Spot Detection Based on Image Segmentation</em> <br />
+    </p>
+
+    
+
+
+
 
 
 ---
