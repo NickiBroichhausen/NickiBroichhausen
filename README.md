@@ -12,6 +12,11 @@ I am a Master's student specializing in Satellite Technology and Robotics at Jul
 * **Role:** Master's Thesis Researcher
 * **Tech Stack:** C++, ROS2, OpenCV, Eigen, Sophus
 * **Summary:** Developing a scale-aware Visual Odometry (VO) framework for autonomous planetary drones, based on Basalt [[1]](https://gitlab.com/VladyslavUsenko/basalt). Solving scale ambiguity with stereo cameras even at high flight altitudes.
+* **Images:**
+    <p align="center">
+      <img width="700" alt="image" src="https://github.com/user-attachments/assets/b290805c-e86c-4f2e-a018-b4a9ea30f827" />
+      <br />  <em>Figure 1.1: Rviz2 dashboard I created to debug the VO in real time</em> <br />
+    </p> 
 
 ### PRELUDE Satellite Mission
 * **Role:** Lead Software Engineer (Exchange Semester in Japan)
@@ -19,8 +24,8 @@ I am a Master's student specializing in Satellite Technology and Robotics at Jul
 * **Summary:** Led the development of the mission software for the PRELUDE CubeSat Mission, which allowed for high througput on-board data processing with a prallel multicore design.
 * **Images:**
     <p align="center">
-      <img width="400" alt="image" src="https://github.com/user-attachments/assets/e94e839c-41fc-4107-b173-e859c23ff21f" />
-      <br />  <em>Figure 1.1: Assembled Mission OBC</em> <br />
+      <img width="300" alt="image" src="https://github.com/user-attachments/assets/e94e839c-41fc-4107-b173-e859c23ff21f" />
+      <br />  <em>Figure 2.1: Assembled Mission OBC</em> <br />
     </p>
 * **Links:** [PRELUDE Project](https://github.com/PRELUDE-Project)
 
@@ -29,12 +34,14 @@ I am a Master's student specializing in Satellite Technology and Robotics at Jul
 * **Tech Stack:** Python, RaspberryPI, OpenCV, Electrical Components
 * **Images:** 
     <p align="center">
-      <img width="500" alt="image" src="https://github.com/user-attachments/assets/4b68752d-e9b7-4fb0-86d9-079876afb6b0" />
-      <br />  <em>Figure 2.1: Example of a Feature Descriptor Based on Star Formations</em>  <br />
-      <img width="500" alt="image" src="https://github.com/user-attachments/assets/ad92be0b-c4e4-4381-bf00-2ebb874f13ca" />
-      <br /> <em>Figure 2.2: Example of All Star Formations in an Image</em>  <br />
-      <img width="500" alt="image" src="https://github.com/user-attachments/assets/3de5954a-8d0e-4bc6-9f44-c73b5622bf6c" />
-      <br />  <em>Figure 2.3: Example of Feature Matching Between Two Images</em> <br />
+      <img width="400" alt="image" src="https://github.com/user-attachments/assets/4b68752d-e9b7-4fb0-86d9-079876afb6b0" />
+      <br />  <em>Figure 3.1: Example of a Feature Descriptor Based on Star Formations</em>  <br />
+      <img width="400" alt="image" src="https://github.com/user-attachments/assets/ad92be0b-c4e4-4381-bf00-2ebb874f13ca" />
+      <br /> <em>Figure 3.2: Example of All Star Formations in an Image</em>  <br />
+      <img width="600" alt="image" src="https://github.com/user-attachments/assets/3de5954a-8d0e-4bc6-9f44-c73b5622bf6c" />
+      <br />  <em>Figure 3.3: Example of Feature Matching Between Two Images</em> <br />
+      <img width="2200" alt="estimatedPositon" src="https://github.com/user-attachments/assets/0d57712b-59f7-4cc7-b34f-df157d335c1f" />
+      <br />  <em>Figure 3.4: Estimate of current positoin within the panorama star map</em> <br />
     </p>
 * **Links:**  [StarSift](https://github.com/NickiBroichhausen/starmapper)
 
@@ -43,8 +50,8 @@ I am a Master's student specializing in Satellite Technology and Robotics at Jul
 * **Tech Stack:** Python, Basilisk Simulation [[2]](https://github.com/AVSLab/basilisk/), Gym, StableBaselines
 * **Images:**
     <p align="center">
-      <img width="400" alt="image" src="https://github.com/user-attachments/assets/3507ca94-e76f-4b77-b719-6516413beebf" />
-      <br />  <em>Figure 3.1: Example of Satellite Position and Control Input Over Time</em> <br />
+      <img width="300" alt="image" src="https://github.com/user-attachments/assets/3507ca94-e76f-4b77-b719-6516413beebf" />
+      <br />  <em>Figure 4.1: Example of Satellite Position and Control Input Over Time</em> <br />
     </p>
 * **Links:**  [AI Controller](https://github.com/NickiBroichhausen/FloatSat_AI_Controller)
 
@@ -54,8 +61,8 @@ I am a Master's student specializing in Satellite Technology and Robotics at Jul
 * **Summary:** Local Event Winner at the NASA Space Apps Challenge Hackathon with our AI algorithm that detects anomalies in Seismometer data
 * **Images:**
     <p align="center">
-      <img width="600" alt="image" src="https://github.com/user-attachments/assets/56943fec-24bd-421d-9758-6a01c0e86e52" />
-      <br />  <em>Figure 4.1: Example of Input Data and predicted Anomalie</em> <br />
+      <img width="400" alt="image" src="https://github.com/user-attachments/assets/56943fec-24bd-421d-9758-6a01c0e86e52" />
+      <br />  <em>Figure 5.1: Example of Input Data and predicted Anomaly</em> <br />
     </p>
 * **Links:** [Jupyter Notebook](https://github.com/NickiBroichhausen/NASASpaceAppChallange24/blob/main/Seismic_ML.ipynb)
 
@@ -66,9 +73,9 @@ I am a Master's student specializing in Satellite Technology and Robotics at Jul
 * **Images:**
     <p align="center">
       <img width="500" alt="image" src="https://github.com/user-attachments/assets/4639146a-2d50-4b44-8858-9640b897c627" />
-      <br />  <em>Figure 5.1: Code Architecture Overview </em> <br />
+      <br />  <em>Figure 6.1: Code Architecture Overview </em> <br />
       <img width="500" alt="image" src="https://github.com/user-attachments/assets/f44890df-c203-49a8-ad0f-62f9c8a46216" />
-      <br />  <em>Figure 5.2: Landing Spot Detection Based on Image Segmentation</em> <br />
+      <br />  <em>Figure 6.2: Landing Spot Detection Based on Image Segmentation</em> <br />
     </p>
 
     
