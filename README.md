@@ -15,7 +15,7 @@ I am a Master's student specializing in Satellite Technology and Robotics at Jul
 * **Images:**
     <p align="center">
       <img width="700" alt="image" src="https://github.com/user-attachments/assets/b290805c-e86c-4f2e-a018-b4a9ea30f827" />
-      <br />  <em>Figure 1.1: Rviz2 dashboard I created to debug the VO in real time</em> <br />
+      <br />  <em>Figure 1.1: Rviz2 Dashboard I Created to Debug the VO in Real-Time</em> <br />
     </p> 
 
 ### PRELUDE Satellite Mission
@@ -41,12 +41,12 @@ I am a Master's student specializing in Satellite Technology and Robotics at Jul
       <img width="600" alt="image" src="https://github.com/user-attachments/assets/3de5954a-8d0e-4bc6-9f44-c73b5622bf6c" />
       <br />  <em>Figure 3.3: Example of Feature Matching Between Two Images</em> <br />
       <img width="2200" alt="estimatedPositon" src="https://github.com/user-attachments/assets/0d57712b-59f7-4cc7-b34f-df157d335c1f" />
-      <br />  <em>Figure 3.4: Estimate of current positoin within the panorama star map</em> <br />
+      <br />  <em>Figure 3.4: Estimate of Current Position Within the Panorama Star Map</em> <br />
     </p>
 * **Links:**  [StarSift](https://github.com/NickiBroichhausen/starmapper)
 
 ### FloatSat: AI Controller
-* **Summary AI Controller:** Developed a Reinforcement learning controller to control spacecraft attitude with a reaction wheel
+* **Summary AI Controller:** Developed a Reinforcement Learning Controller to control the spacecraft attitude with a reaction wheel
 * **Tech Stack:** Python, Basilisk Simulation [[2]](https://github.com/AVSLab/basilisk/), Gym, StableBaselines
 * **Images:**
     <p align="center">
@@ -62,7 +62,7 @@ I am a Master's student specializing in Satellite Technology and Robotics at Jul
 * **Images:**
     <p align="center">
       <img width="400" alt="image" src="https://github.com/user-attachments/assets/56943fec-24bd-421d-9758-6a01c0e86e52" />
-      <br />  <em>Figure 5.1: Example of Input Data and predicted Anomaly</em> <br />
+      <br />  <em>Figure 5.1: Example of Input Data and Predicted Anomaly</em> <br />
     </p>
 * **Links:** [Jupyter Notebook](https://github.com/NickiBroichhausen/NASASpaceAppChallange24/blob/main/Seismic_ML.ipynb)
 
