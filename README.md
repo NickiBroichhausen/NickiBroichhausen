@@ -29,8 +29,8 @@ I am a Master's student specializing in Satellite Technology and Robotics at Jul
     </p>
 * **Links:** [PRELUDE Project](https://github.com/PRELUDE-Project)
 
-### FloatSat: State Estimation
-* **Summary State Estimation:** Student project based on the [FloatSat platform](https://www.informatik.uni-wuerzburg.de/aerospaceinfo/main/projekte/floatsat/). Developed a camera based system to estimated spacecraft orientation. Designed a new feature descriptor inspired by SIFT, that utilizes star formations instead of color gradients, allowing feature matching even in sparse images of the night sky. 
+### FloatSat: Attitude Determination
+* **Summary Attitude Determination:** Student project based on the [FloatSat platform](https://www.informatik.uni-wuerzburg.de/aerospaceinfo/main/projekte/floatsat/). Developed a camera based system to estimated spacecraft orientation. Designed a new feature descriptor inspired by SIFT, that utilizes star formations instead of color gradients, allowing feature matching even in sparse images of the night sky. 
 * **Tech Stack:** Python, RaspberryPI, OpenCV, Electrical Components
 * **Images:** 
     <p align="center">
